@@ -5,7 +5,7 @@
 <h1 align="center">✨ About Me ✨</h1>
 Mi nombre es Ma. Cecilia Bloise, tengo 27 años.
 Sureña🐧
-Amante del fulbito, limonchama en <a hrfe="https://instagram.com/chama.fc?igshid=YmMyMTA2M2Y=">Chama FC🔥</a> y capitana en <a hrfe="https://instagram.com/utnfrafutsal?igshid=YmMyMTA2M2Y=">UTN Fra 🧡🖤</a>
+Amante del fulbito, limonchama en <a href="https://instagram.com/chama.fc?igshid=YmMyMTA2M2Y=">Chama FC🔥</a> y capitana en <a href="https://instagram.com/utnfrafutsal?igshid=YmMyMTA2M2Y=">UTN Fra 🧡🖤</a>
 Soy entusiasta de la tecnología y espero aprender nuevas habilidades🙌🏿💃🏿
   
 ````bash
