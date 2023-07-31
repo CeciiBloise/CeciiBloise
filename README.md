@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 
-><p><em>Soy estudiante de Ingenieria Electronica en la <a href="https://www.fra.utn.edu.ar/">Universidad Tecnologica Nacional</a> y también, realizo una Tec. en Ciencias de Datos en el <a href="http://inset.edu.ar/">InSET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"><p><em>Soy estudiante de Ingenieria Electronica en la <a href="https://www.fra.utn.edu.ar/">Universidad Tecnologica Nacional</a> y también, realizo una Tec. en Ciencias de Datos en el <a href="http://inset.edu.ar/">InSET</a>
 
 <h1 align="center">✨ About Me ✨</h1>
   <p>Mi nombre es Ma. Cecilia Bloise, tengo 28 años.</p>
