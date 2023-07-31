@@ -3,14 +3,14 @@
 ><p><em>Soy estudiante de Ingenieria Electronica en la <a href="https://www.fra.utn.edu.ar/">Universidad Tecnologica Nacional</a> y también, realizo una Tec. en Ciencias de Datos en el <a href="http://inset.edu.ar/">InSET</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 <h1 align="center">✨ About Me ✨</h1>
-  <p>Mi nombre es Ma. Cecilia Bloise, tengo 27 años.</p>
+  <p>Mi nombre es Ma. Cecilia Bloise, tengo 28 años.</p>
   <p>Sureña🐧</p>
 
   <p>Soy entusiasta de la tecnología y espero aprender nuevas habilidades🙌🏿💃🏿</p>
   
 ````bash
 > help --contact
-> linkedin: bloisemcecilia
+> linkedin: <a href="https://www.linkedin.com/in/bloisemcecilia/">bloisemcecilia</a>
 > instagram: limoncitosalvaje
 > mail: bloisececii@gmail.com
 ````
