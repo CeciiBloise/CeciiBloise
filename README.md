@@ -10,7 +10,6 @@
   
 > help --contact
 > <br>linkedin: <a href="https://www.linkedin.com/in/bloisemcecilia/">bloisemcecilia</a>
-> <br>instagram: limoncitosalvaje
 > <br>mail: bloisececii@gmail.com
 
   
