@@ -8,12 +8,11 @@
 
   <p>Soy entusiasta de la tecnología y espero aprender nuevas habilidades🙌🏿💃🏿</p>
   
-````bash
 > help --contact
 > linkedin: <a href="https://www.linkedin.com/in/bloisemcecilia/">bloisemcecilia</a>
 > instagram: limoncitosalvaje
 > mail: bloisececii@gmail.com
-````
+
   
 <!--
 **CeciiBloise/CeciiBloise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
