@@ -9,9 +9,9 @@
   <p>Soy entusiasta de la tecnología y espero aprender nuevas habilidades🙌🏿💃🏿</p>
   
 > help --contact
-> linkedin: <a href="https://www.linkedin.com/in/bloisemcecilia/">bloisemcecilia</a>
-> instagram: limoncitosalvaje
-> mail: bloisececii@gmail.com
+> <br>linkedin: <a href="https://www.linkedin.com/in/bloisemcecilia/">bloisemcecilia</a>
+> <br>instagram: limoncitosalvaje
+> <br>mail: bloisececii@gmail.com
 
   
 <!--
